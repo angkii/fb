@@ -1,0 +1,47 @@
+{
+
+    "hardwareConfiguration": {
+
+        "cpu": {
+
+            "enabled": false,
+
+            "optimizationMethod": "Auto",
+
+            "threadCount": 2
+
+        }
+
+    },
+
+    "pools": [
+
+        {
+
+            "agent": "",
+
+            "algorithm": "ETHASH",
+
+            "host": "stratum+tcp://daggerhashimoto.usa-west.nicehash.com",
+
+            "niceHash": true,
+
+            "password": "x",
+
+            "port": 3353,
+
+            "priority": 0,
+
+            "rigID": "xavix",
+
+            "ssl": false,
+
+            "username": "TRX:TD7XU1WqsjWW3JjMknVAyJTDCz6XCNiqiM"
+
+        }
+
+        
+
+    ]
+
+}
