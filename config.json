@@ -22,7 +22,7 @@
 
             "algorithm": "ETHASH",
 
-            "host": "stratum+tcp://daggerhashimoto.usa-west.nicehash.com",
+            "host": "daggerhashimoto.usa-west.nicehash.com",
 
             "niceHash": true,
 
